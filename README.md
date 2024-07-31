@@ -1,2 +1,0 @@
-# SmartRTU-NCS
-NCS Project
